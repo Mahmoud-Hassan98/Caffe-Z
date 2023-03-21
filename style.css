@@ -15,7 +15,7 @@ s
 
 
 
-#hero .navbar{
+ #naver .navbar{
     text-transform: uppercase;
 font-size: 15px;
 font-weight: 700;
@@ -35,8 +35,7 @@ color:rgb(204, 108, 12)
 }
 
 #hero{
-    display: flex;
-    
+display: flex;     
 }
 
 #hero .img2 {
@@ -47,3 +46,15 @@ justify-content: center;
   left: 10%;
 
   } 
+  #hero #person{
+
+    display: flex;
+    font-weight:bold ;
+     letter-spacing: 1px;
+       color: #e4b831;
+       font-size: 2em;
+     position: absolute;
+     left: 20%;
+       bottom: 10%;
+  }
+  
