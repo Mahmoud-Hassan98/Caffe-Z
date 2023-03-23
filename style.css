@@ -46,15 +46,24 @@ justify-content: center;
   left: 10%;
 
   } 
-  #hero #person{
+   #customer{
 
-    display: flex;
+    
     font-weight:bold ;
      letter-spacing: 1px;
        color: #e4b831;
        font-size: 2em;
      position: absolute;
-     left: 20%;
+     left: 50%;
        bottom: 10%;
   }
+    #perosn{
+      font-weight:bold ;
+      letter-spacing: 1px;
+        color: #e4b831;
+        font-size: 2em;
+      position: absolute;
+      left: 10%;
+        bottom: 10%;
+    }
   
